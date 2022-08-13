@@ -1,6 +1,7 @@
 # Scrapper Krowdy API
 
 API y Base de Datos para el scrapper realizado para el reto de Krowdy.
+API realizada con la dependencia Restify y base de datos hecha en MongoDB.
 
 ## Installation
 
